@@ -123,3 +123,25 @@ h4 {
 }
 
 /* 03. Centrer verticalement */
+
+.card {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #669bbc;
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  width: 200px;
+  margin-bottom: 20px;
+  background: #780000;
+  color: #fdf0d5;
+  text-align: center;
+  padding: 20px;
+}
+
+/* 04. Intégration */
