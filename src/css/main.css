@@ -97,3 +97,29 @@ h4 {
 }
 
 /* 02. Centrer horizontalement */
+.calltoaction {
+  text-align: center;
+
+  padding: 15px 30px;
+  background: #fdf0d5;
+  border: 1px solid #c1121f;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 15px;
+  width: 160px;
+}
+
+.link {
+  width: 250px;
+  padding: 15px 0;
+  background: #003049;
+  color: #fdf0d5;
+  font-family: "Libre Baskerville";
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* 03. Centrer verticalement */
