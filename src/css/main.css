@@ -75,42 +75,25 @@ video {
 
 /* 01. Sélecteurs CSS */
 
-/* 02. Centrer horizontalement */
-
-.calltoaction {
-  margin-bottom: 15px;
-  padding: 15px 30px;
-  background: #fdf0d5;
-  border: 1px solid #c1121f;
-  text-transform: uppercase;
-}
-
-.link {
-  width: 250px;
-  padding: 15px 0;
-  background: #003049;
-  color: #fdf0d5;
+h3,
+h4 {
   font-family: "Libre Baskerville";
-  text-transform: uppercase;
 }
 
-/* 03. Centrer verticalement */
-
-.card {
-  width: 150px;
-  height: 150px;
-  margin-bottom: 20px;
-  padding: 20px;
-  border-radius: 10px;
-  background: #669bbc;
+.section-sport h4 {
+  color: #78290f;
 }
 
-.button {
-  width: 200px;
-  margin-bottom: 20px;
-  background: #780000;
-  color: #fdf0d5;
-  text-align: center;
+.section-culture h4 {
+  color: #15616d;
 }
 
-/* 04. Intégration */
+.section-regions .first {
+  font-weight: bold;
+}
+
+.first.highlighted {
+  background: #faf0ca;
+}
+
+/* 02. Centrer horizontalement */
